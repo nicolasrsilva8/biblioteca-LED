@@ -16,9 +16,9 @@ Versão: 1.1.0
 #include <LED.h>
 
 // Aqui está a definição dos pinos dos LEDs
-LED ledAmarelo(45); 
+LED ledAmarelo(37); 
 LED ledVermelho(35);
-LED ledVerde(37);
+LED ledVerde(45);
 
 void setup() // Aqui é onde nós utilizaremos esta função:
 {
